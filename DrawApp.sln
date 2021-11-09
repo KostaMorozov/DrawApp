@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawClient", "DrawApp\DrawClient.csproj", "{75FCBF35-9AFB-4057-8456-1AB21E27026A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawServer", "DrawServer\DrawServer.csproj", "{7D3AEEE6-B9E8-4F46-A4E3-5CCED1363A39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75FCBF35-9AFB-4057-8456-1AB21E27026A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75FCBF35-9AFB-4057-8456-1AB21E27026A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75FCBF35-9AFB-4057-8456-1AB21E27026A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75FCBF35-9AFB-4057-8456-1AB21E27026A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7D3AEEE6-B9E8-4F46-A4E3-5CCED1363A39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7D3AEEE6-B9E8-4F46-A4E3-5CCED1363A39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7D3AEEE6-B9E8-4F46-A4E3-5CCED1363A39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7D3AEEE6-B9E8-4F46-A4E3-5CCED1363A39}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3392BB1E-74CB-41DB-8E2A-BB3A8006DF2C}
+	EndGlobalSection
+EndGlobal
